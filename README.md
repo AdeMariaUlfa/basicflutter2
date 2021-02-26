@@ -1,13 +1,7 @@
-# hasil praktikum 3
+# hasil praktikum 3 ada di issues
 # nama = Ade Maria Ulfa
 # kelas = MI-2A (01)
 
-![plot](./img/1.jpg)
-<br>
-![plot](./img/2.jpg)
-<br>
-![plot](./img/3.jpg)
-<br>
 
 A new Flutter project.
 
