@@ -1,4 +1,4 @@
-# hasil praktikum 3 ada di issues
+# hasil praktikum 3 & 4 ada di issues
 # nama = Ade Maria Ulfa
 # kelas = MI-2A (01)
 
